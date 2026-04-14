@@ -57,3 +57,26 @@ Unit testing was performed to validate:
 ---
 
 ## 📁 Project Structure
+EV-Monitoring-Dashboard/
+│
+├── simulator/
+├── analytics/
+├── utils/
+├── tests/
+├── data/
+├── results/
+
+
+---
+
+## 📌 Conclusion
+This project demonstrates a scalable and modular EV monitoring system using software simulation. It provides a foundation for future integration with real-time EV hardware systems.
+
+---
+
+## 🚀 Future Scope
+- Integration with real EV sensors  
+- Mobile application interface  
+- AI-based predictive analytics  
+
+---
